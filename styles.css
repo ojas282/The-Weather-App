@@ -1,0 +1,63 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-image: url('arteum-ro-bGlH3TIzGGE-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color:#56718A;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+
+  border-radius: 25px;
+  box-shadow: 0 0 10px #56718A;
+  margin-top: 250px;
+}
+
+input[type="text"] {
+  width: 60%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
+
+footer {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgba(86, 113, 138, 0.5);
+  text-align: center;
+  padding: 34px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: #fff;
+}
