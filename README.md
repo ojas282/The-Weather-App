@@ -1,6 +1,6 @@
 # The Weather App
 
-![Weather App](https://user-images.githubusercontent.com/your-username/weather-app-screenshot.png)
+![Weather App](https://user-images.githubusercontent.com/ojas282/weather-app-screenshot.png)
 
 ## Description
 
